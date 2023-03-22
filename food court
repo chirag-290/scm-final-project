@@ -124,6 +124,9 @@ def admin():
 
 admin_custome = input("""You are admin or customer : 
 
+
+                1. admin
+
                 1. admin
                 2. customer    
 
@@ -141,4 +144,8 @@ elif admin_custome_modified == "Admin" or admin_custome_modified == "1":
         else:
             print("\n                          ❌❌ Sorry ! Invalid paasword ❌❌\n ")
 else:
+ feature
     print("\n                                    ❌❌ Invalid input ❌❌\n ")
+
+    print("\n                                    ❌❌ Invalid input ❌❌\n ")
+
