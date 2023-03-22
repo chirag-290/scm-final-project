@@ -6,7 +6,7 @@ def menuAsDict():
 
     admin()
     global menu_As_Dict
-    menu_As_Dict = dict(zip(item_list, price_list))
+    menu_As_Dict = dict(zip(item_list, Price_list))
 
 
 def finalMenu():
